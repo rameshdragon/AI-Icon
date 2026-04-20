@@ -1,0 +1,9 @@
+{
+  "name": "ai-icon-scraper",
+  "version": "1.0.0",
+  "description": "Web scraper for AI Icon Generator",
+  "main": "scraper.js",
+  "dependencies": {
+    "puppeteer": "latest"
+  }
+}
